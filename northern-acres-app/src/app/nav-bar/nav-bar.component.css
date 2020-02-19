@@ -1,0 +1,29 @@
+#top-section {
+    background-color: #004a2f;
+  }
+  
+  #navigation {
+    background-color: white;
+    padding: 1rem 0;
+  }
+  
+  .nav-image {
+    width: 350px;
+    height: 120px;
+  }
+  
+  .nav-link {
+    font-family: 'Overpass', sans-serif;
+  }
+  
+  .navbar-brand {
+    width: 35%;
+  }
+  
+  .navbar {
+    padding: 0 0 4.5rem;
+  }
+  
+  .nav-item {
+    padding: 0 18px;
+  }

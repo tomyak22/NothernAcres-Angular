@@ -1,0 +1,206 @@
+#top-section {
+    background-color: #004a2f;
+  }
+  
+  #navigation {
+    background-color: white;
+    padding: 1rem 0;
+  }
+  
+  .nav-image {
+    width: 350px;
+    height: 120px;
+  }
+  
+  .nav-link {
+    font-family: 'Overpass', sans-serif;
+  }
+  
+  .navbar-brand {
+    width: 35%;
+  }
+  
+  .navbar {
+    padding: 0 0 4.5rem;
+  }
+  
+  .nav-item {
+    padding: 0 18px;
+  }
+  
+  /* Featured Properties Slides */
+  .featured-slides {
+    text-align: center;
+    padding: 5rem 0 8rem;
+  }
+  
+  .featured-slides h5 {
+    font-family: 'PT Sans Caption', sans-serif;
+  }
+  
+  .featured-slides p {
+    font-family: 'Overpass', sans-serif;
+  }
+  
+  .featured-image {
+    width: 55%;
+    height: 500px;
+  }
+  
+  .slide-text {
+    color: #fff0a5;
+  }
+  
+  /* Home page general information section */
+  #home-main {
+    padding: 3rem 0 10rem;
+  }
+  
+  .home-info {
+    text-align: center;
+  }
+  
+  .buy-land {
+    padding-top: 5rem;
+  }
+  
+  .home-title-pic {
+    width: 300px;
+    height: 300px;
+    border-radius: 100%;
+    box-shadow: 10px 5px 5px #fff0a5;
+    margin: 50px 50px;
+  }
+  
+  .floatR {
+    float: right;
+  }
+  
+  .floatL {
+    float: left;
+  }
+  
+  .home-info h2 {
+    font-family: 'PT Sans Caption', sans-serif;
+    font-weight: bold;
+    font-size: 3.5rem;
+    color: #004a2f;
+    padding: 5rem 1rem;
+  }
+  
+  .live-free-NH {
+    margin-right: 200px;
+  }
+  
+  .home-info h3 {
+    font-family: 'Overpass', sans-serif;
+    padding: 2rem;
+    font-size: 2.5rem;
+  }
+  
+  .home-info p {
+    font-family: 'Catamaran', sans-serif;
+    font-size: 1.2rem;
+  }
+  
+  .home-text {
+    padding: 5rem;
+    width: 90%;
+    margin: 0 auto;
+  }
+  
+  /* Footer styles */
+  #footer {
+    background-color: #004a2f;
+    color: #fff0a5;
+    text-align: center;
+    padding: 5% 12%;
+  }
+  
+  .footer-link {
+    color: #fff0a5;
+    padding: 0 1rem;
+  }
+  
+  .footer-link:hover {
+    color: white;
+  }
+  
+  .footer-icon {
+    color: #fff0a5;
+    padding: 0.5rem 1rem;
+  }
+  
+  .footer-icon:hover {
+    color: white;
+  }
+  
+  .copyright {
+    padding-top: 1rem;
+  }
+  
+  /* Terms and Conditions Page */
+  #terms {
+    width: 75%;
+    margin: auto;
+    padding: 5rem 0;
+  }
+  
+  #terms h2 {
+    color: #004a2f;
+    font-family: 'PT Sans Caption', sans-serif;
+    padding: 2rem 0;
+    font-size: 2.5rem;
+  }
+  
+  #terms h4 {
+    font-family: 'Overpass', sans-serif;
+    padding: 1rem 0;
+    font-size: 1.5rem;
+  }
+  
+  #terms p {
+    font-family: 'Catamaran', sans-serif;
+  }
+  
+  /* Featured Properties Page */
+  #featured-properties {
+    background-color: #004a2f;
+    text-align: center;
+  }
+  
+  #featured-properties h2 {
+    color: white;
+    font-family: 'PT Sans Caption', sans-serif;
+    padding: 3rem 0;
+    font-size: 3rem;
+  }
+  
+  .individual-listing {
+    padding: 1rem 0;
+  }
+  
+  .property-image {
+    height: 250px;
+    width: 250px;
+    outline: white solid;
+    margin-bottom: 1rem;
+  }
+  
+  #featured-properties h4 {
+    color: #fff0a5;
+    font-family: 'Overpass', sans-serif;
+    padding-bottom: .2rem;
+  }
+  
+  #featured-properties h6 {
+    color: white;
+    font-family: 'Overpass', sans-serif;
+  }
+  
+  #featured-properties p {
+    color: white;
+    text-align: left;
+    font-family: 'Catamaran', sans-serif;
+  }
+  

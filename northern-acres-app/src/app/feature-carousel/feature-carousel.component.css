@@ -1,0 +1,26 @@
+/* Featured Properties Slides */
+.featured-slides {
+    text-align: center;
+    padding: 5rem 0 8rem;
+    background-color: #004a2f;
+  }
+  
+  .featured-slides h5 {
+    font-family: 'PT Sans Caption', sans-serif;
+  }
+  
+  .featured-slides p {
+    font-family: 'Overpass', sans-serif;
+  }
+  
+  .featured-image {
+    width: 55%;
+    height: 500px;
+  }
+  
+  .slide-text {
+    color: #fff0a5;
+  }
+
+  
+  

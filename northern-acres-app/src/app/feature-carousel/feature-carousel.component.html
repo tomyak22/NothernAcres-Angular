@@ -1,0 +1,45 @@
+<!-- Carousel for Featured Properties -->
+<div class="bd-example">
+    <div id="carouselExampleCaptions" class="carousel slide" data-ride="carousel">
+      <ol class="carousel-indicators">
+        <li data-target="#carouselExampleCaptions" data-slide-to="0" class="active"></li>
+        <li data-target="#carouselExampleCaptions" data-slide-to="1"></li>
+        <li data-target="#carouselExampleCaptions" data-slide-to="3"></li>
+        <li data-target="#carouselExampleCaptions" data-slide-to="4"></li>
+        <li data-target="#carouselExampleCaptions" data-slide-to="5"></li>
+        <li data-target="#carouselExampleCaptions" data-slide-to="6"></li>
+        <li data-target="#carouselExampleCaptions" data-slide-to="7"></li>
+        <li data-target="#carouselExampleCaptions" data-slide-to="8"></li>
+        <li data-target="#carouselExampleCaptions" data-slide-to="9"></li>
+      </ol>
+      <div class="carousel-inner">
+        <div class="carousel-item active featured-slides">
+          <a href="https://www.neren.com/listing/L01-Easton-Rd/5c38c4a3bf34cb91505aa64d">
+            <img src="{{listingsFeatured[0].Pics}}" class="featured-image" alt="...">
+          </a>
+          <div class="carousel-caption d-none d-md-block">
+            <h5 class="slide-text">Mountains for Miles!</h5>
+            <p class="slide-text">$39,900 - 52 Glades View, Newry, ME 04261</p>
+          </div>
+        </div>
+        <!-- Remember this makes a copy of the feature list -->
+        <div *ngFor="let listingFeatured of listingsFeatured | slice:1;" class="carousel-item featured-slides">
+          <img src="{{listingFeatured.Pics}}" class="featured-image" alt="...">
+          <div class="carousel-caption d-none d-md-block">
+            <h5 class="slide-text">2.05 Acres White Mountain Land at Liquidation Pricing!</h5>
+            <p class="slide-text">$24,900 - Catteral Road, Lisbon, NH 03585</p>
+          </div>
+        </div>
+       
+      <a class="carousel-control-prev" href="#carouselExampleCaptions" role="button" data-slide="prev">
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="sr-only">Previous</span>
+      </a>
+      <a class="carousel-control-next" href="#carouselExampleCaptions" role="button" data-slide="next">
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="sr-only">Next</span>
+      </a>
+    </div>
+  </div>
+
+  
