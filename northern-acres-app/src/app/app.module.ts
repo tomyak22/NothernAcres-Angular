@@ -5,6 +5,7 @@ import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { NavBarComponent } from './nav-bar/nav-bar.component';
 import { FeatureCarouselComponent } from './feature-carousel/feature-carousel.component';
+import { HomeTextComponent } from './home-text/home-text.component';
 
 
 
@@ -12,7 +13,8 @@ import { FeatureCarouselComponent } from './feature-carousel/feature-carousel.co
   declarations: [
     AppComponent,
     NavBarComponent,
-    FeatureCarouselComponent
+    FeatureCarouselComponent,
+    HomeTextComponent
   ],
   imports: [
     BrowserModule,
