@@ -1,0 +1,56 @@
+#home-main {
+    padding: 3rem 0 10rem;
+  }
+  
+  .home-info {
+    text-align: center;
+  }
+  
+  .buy-land {
+    padding-top: 5rem;
+  }
+  
+  .home-title-pic {
+    width: 300px;
+    height: 300px;
+    border-radius: 100%;
+    box-shadow: 10px 5px 5px #fff0a5;
+    margin: 50px 50px;
+  }
+  
+  .floatR {
+    float: right;
+  }
+  
+  .floatL {
+    float: left;
+  }
+  
+  .home-info h2 {
+    font-family: 'PT Sans Caption', sans-serif;
+    font-weight: bold;
+    font-size: 3.5rem;
+    color: #004a2f;
+    padding: 5rem 1rem;
+  }
+  
+  .live-free-NH {
+    margin-right: 200px;
+  }
+  
+  .home-info h3 {
+    font-family: 'Overpass', sans-serif;
+    padding: 2rem;
+    font-size: 2.5rem;
+  }
+  
+  .home-info p {
+    font-family: 'Catamaran', sans-serif;
+    font-size: 1.2rem;
+  }
+  
+  .home-text {
+    padding: 5rem;
+    width: 90%;
+    margin: 0 auto;
+  }
