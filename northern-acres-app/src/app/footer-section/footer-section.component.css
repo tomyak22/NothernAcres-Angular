@@ -1,0 +1,28 @@
+#footer {
+    background-color: #004a2f;
+    color: #fff0a5;
+    text-align: center;
+    padding: 2% 12%;
+  }
+  
+  .footer-link {
+    color: #fff0a5;
+    padding: 0 1rem;
+  }
+  
+  .footer-link:hover {
+    color: white;
+  }
+  
+  .footer-icon {
+    color: #fff0a5;
+    padding: 0.5rem 1rem;
+  }
+  
+  .footer-icon:hover {
+    color: white;
+  }
+  
+  .copyright {
+    padding-top: 1rem;
+  }
