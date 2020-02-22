@@ -7,6 +7,8 @@ import { NavBarComponent } from './nav-bar/nav-bar.component';
 import { FeatureCarouselComponent } from './feature-carousel/feature-carousel.component';
 import { HomeTextComponent } from './home-text/home-text.component';
 import { FooterSectionComponent } from './footer-section/footer-section.component';
+import { HomePageComponent } from './home-page/home-page.component';
+import { TermsConditionsComponent } from './terms-conditions/terms-conditions.component';
 
 
 
@@ -16,7 +18,9 @@ import { FooterSectionComponent } from './footer-section/footer-section.componen
     NavBarComponent,
     FeatureCarouselComponent,
     HomeTextComponent,
-    FooterSectionComponent
+    FooterSectionComponent,
+    HomePageComponent,
+    TermsConditionsComponent
   ],
   imports: [
     BrowserModule,
