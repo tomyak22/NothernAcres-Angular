@@ -9,6 +9,7 @@ import { HomeTextComponent } from './home-text/home-text.component';
 import { FooterSectionComponent } from './footer-section/footer-section.component';
 import { HomePageComponent } from './home-page/home-page.component';
 import { TermsConditionsComponent } from './terms-conditions/terms-conditions.component';
+import { PropertiesListComponent } from './properties-list/properties-list.component';
 
 
 
@@ -20,7 +21,8 @@ import { TermsConditionsComponent } from './terms-conditions/terms-conditions.co
     HomeTextComponent,
     FooterSectionComponent,
     HomePageComponent,
-    TermsConditionsComponent
+    TermsConditionsComponent,
+    PropertiesListComponent
   ],
   imports: [
     BrowserModule,
